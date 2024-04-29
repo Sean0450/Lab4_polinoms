@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\Иван\source\repos\Lab_polinoms\Lab_polinoms\Main.cpp(81,81): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Иван\source\repos\Lab_polinoms\Lab_polinoms\Main.cpp(81,72): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Иван\source\repos\Lab_polinoms\Lab_polinoms\Main.cpp(81,63): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Polinom.cpp
+C:\Users\Иван\source\repos\Lab_polinoms\Lab_polinoms\Polinom.cpp(242,91): warning C4244: +=: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\Иван\source\repos\Lab_polinoms\Lab_polinoms\Polinom.cpp(245,9): warning C4244: return: преобразование "size_t" в "double", возможна потеря данных
+  Создание кода...
+  Lab_polinoms.vcxproj -> C:\Users\Иван\source\repos\Lab_polinoms\x64\Debug\Lab_polinoms.exe

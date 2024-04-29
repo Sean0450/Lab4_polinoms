@@ -1,0 +1,5 @@
+C:/Users/Иван/source/repos/Lab_polinoms/build/CMakeFiles/Monom.dir
+C:/Users/Иван/source/repos/Lab_polinoms/build/CMakeFiles/Polinom.dir
+C:/Users/Иван/source/repos/Lab_polinoms/build/CMakeFiles/main.dir
+C:/Users/Иван/source/repos/Lab_polinoms/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Иван/source/repos/Lab_polinoms/build/CMakeFiles/ZERO_CHECK.dir

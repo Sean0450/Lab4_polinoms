@@ -1,0 +1,10 @@
+^C:\USERS\ИВАН\SOURCE\REPOS\LAB_POLINOMS\BUILD\CMAKEFILES\A718D83A700D2EAEF24A9CDDBF6B4A71\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Иван/source/repos/Lab_polinoms -BC:/Users/Иван/source/repos/Lab_polinoms/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Иван/source/repos/Lab_polinoms/build/Lab_polinoms.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
